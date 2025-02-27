@@ -1,11 +1,5 @@
 ## Setup
 
-Get the code:
-
-```
-
-```
-
 Install dependencies:
 
 ```
